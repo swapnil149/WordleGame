@@ -2,6 +2,8 @@
 
 This project is aimed to create an interactive game similar to the NY Times Wordle game. Users will have 6 attempts to guess a 5-letter word, and feedback on their guesses is provided accordingly. 
 
+Website Link - http://swapnilg.sgedu.site/Wordle/Wordle.html
+
 ## Project Overview
 
 ### Game Rules
