@@ -33,4 +33,5 @@ To run this project locally:
 ---APIs USed---
 
 API to get a random 5 letter word - https://random-words5.p.rapidapi.com/getRandom?wordLength=5
+
 API to validate a word - https://www.dictionaryapi.com/api/v3/references/learners/json/${word}?key=yourKey
